@@ -1,33 +1,29 @@
-# User Stories for NextGenOffice
+# User Stories for TabTracker
 
-This is a backlog of user stories for NextGenOffice.
+This is a backlog of user stories for TabTracker.
 
 ## Current Features
 
-These are features that are currently implemented in NextGenOffice, and which feature on the landing page.
+These are features that are currently implemented in TabTracker, and which features are on the landing page.
 
 ### Illustrated Features
 
-1. As an employee, I want each person in the virtual office to have a “status” icon that depicts their availability. For example, do not disturb, on a call, open to questions, etc. These customizable privacy settings would let me balance availability for collaboration with the need for focused work time without interruptions.
-2. As a manager, I want the option to look at the workspace from a “birds-eye-view,” so that I can see what room each employee is in.
-3. As a remote employee, I want the ability to customize my avatar’s clothes and facial features, so that the office environment can feel more personalized.
+1. As a researcher, I want to have a clear overview of all my open tabs and their content summaries to efficiently navigate between different research topics.
+2. As a user, I want to be taken directly to my desired tab by clicking on the tab description in the popup window
+3. As a project manager, I want to easily spot and close tabs related to completed or outdated projects to declutter my browser.
+4. As a student, I want to clearly see which of my tabs are inactive and which ones are active
 
 ### Other Features
 
-1. As an employee, I want a UI that lets me navigate between office rooms quickly, ideally by only pressing one or two buttons.
-2. As a new hire, I want the ability to customize my virtual office space with personal items and decor, so that I can create a comfortable and motivating workspace that reflects my personality and work style.
-3. As a remote employee, I want an interactive virtual break room with games and activities, so that I can socialize and unwind with colleagues during breaks, fostering team bonding and reducing feelings of isolation.
-4. As an employee, I want to see which other people are in each room in the office before I choose to enter.
-5. As a new hire, I want a designated “lunch” room so that on my lunch break I have the chance to meet and converse with my colleagues in a less “work-centered” environment.
-6. As an employee, I want the login process every morning to be quick, and I want all of my information, such as office and avatar decor to be saved each time I log in.
-
-## Potential Features Expansion
-
-1. As an HR representative, I would like the application to provide me with detailed reporting and analytics on how each department uses each of the features of the app (break rooms, lunch rooms, solo rooms, etc) so that I can publish a well thought out best practices report for the company, and make informed decisions on how to improve department productivity and wellbeing
-2. As an employee, I would like an optional icon to show up on my avatar when it is my birthday to let my colleagues know.
-3. As an HR professional, I want the ability to host virtual career fairs and networking events within the platform, so that we can attract and engage potential candidates in an interactive and immersive environment.
-4. As a project manager, I want a feature that enables real-time collaboration on documents and projects within the virtual workspace, so that team members can work together seamlessly and make decisions quickly, without the need for switching between multiple apps.
-5. As an employee, I want my schedule to be integrated with the virtual envrioinment so that I can share my schedule with fellow employees and my manager if necessary and I can easily switch between the office layout and my schedule. 
-6. As an employee, I would like to see when my manager is in a meeting vs available so that I know when I can check in or ask them questions
-7. As an HR representative, I would like access to statistics on how much time each of my employees spends “interacting” with other employees so that I can schedule check-ins with employees that seem to be integrating to the work environment well, as well as those who might need some help. 
-8. As an employee, I would like the virtual office to have decorations for major holidays, so that we can cultivate a joyful atmosphere even while working remotely.
+1. As a researcher, I want to have a clear overview of all my open tabs and their content summaries to efficiently navigate between different research topics.
+2. As a user who often multitasks, I want to easily spot tabs that have been open for a long time so that I can prioritize which tabs to focus on.
+3. As a developer, I want to manage tabs related to different coding projects and documentation to enhance my productivity.
+4. As a user, I can easily manage my tabs to avoid having tabs of the same information.
+5. As a user, I want to be able to set a timer threshold such that TabTracker will close tabs which pass this threshold.
+6. As a student, I want to easily be able to close multiple inactive tabs at once instead of individually
+7.  As a user I want a scroll feature that allows me to easily see all of the tabs I have open
+8.  As a teacher with many papers to review online, TabTracker allows me to reduce clutter on my browser by prompting me to close those papers I’ve already graded.
+9.  As the CEO of Google, I am tired of Chrome not doing anything to help fix my excessive tab issue and can now have an efficient browsing experience.
+10. As a parent, I can get a prompt to close all the tabs my kid has opened when he is finished using my computer to play video games.
+11. As a student with many classes, I want my tabs in different browsers to show up on a holistic breakdown.
+12. As a student athlete, I can more efficiently get schoolwork done by closing unnecessary outdated sports-related tabs.

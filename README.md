@@ -1,5 +1,5 @@
 # hugo-mock-landing-page
 
-Title: NextGenOffice
+Title: TabTracker
 Author: Maya Chari
-Project: This repo is HW 1 for CIS 3500 at UPenn. It is a Hugo Landing page for an application called NextGenOffice which creates a virtual office environment for companies that work completely remotely. The landing page is based on the Hugo Bootstrap Theme
+Project: This repo is for the hugo landing page for the Chrome Extension that Team 15 made in CIS 3500 at Upenn. It is a Hugo Landing page TabTracker which allows us to closely monitor our usage of different web pages, mark out tabs for closure and allow for easy navigation between tabs and windows.

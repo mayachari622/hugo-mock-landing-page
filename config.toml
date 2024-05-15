@@ -1,7 +1,7 @@
 author = "Maya Chari"
-baseURL = 'https://mayachari622.github.io/hugo-mock-landing-page/'
-copyright = "Maya Chari"
-title = "NextGenOffice"
+baseURL = 'https://mayachari622.github.io/hugo-chrome-extension/'
+copyright = "N/A"
+title = "TabTracker"
 
 
 timeZone = 'Europe/London'
